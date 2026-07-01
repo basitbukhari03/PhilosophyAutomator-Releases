@@ -1,5 +1,5 @@
 {
-    "version": "2.1.1",
+    "version": "2.1.2",
     "download_url": "https://github.com/basitbukhari03/PhilosophyAutomator-Releases/releases/latest/download/Philosophy_Image_Automator_Setup.exe",
-    "release_notes": "v2.1.1: Failed quotes full text restored without truncation. Activity log entry deletion deferred until Save Quotes is clicked."
+    "release_notes": "v2.1.2: Activity Log Quote column renamed to 'Quote' (now showing full quote text), and fixed retry of truncated quotes."
 }
